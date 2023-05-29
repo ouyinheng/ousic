@@ -1,7 +1,3 @@
-# Vue 3 + Vite
+### 一个音乐播放器
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f235476387d84c88a62bb033e02e5278~tplv-k3u1fbpfcp-watermark.image?)
